@@ -1,2 +1,7 @@
 Entornos de Desarrollo 1
+<<<<<<< HEAD
 Realizando cambios desde master local
+=======
+
+Entornos de desarrollo 2
+>>>>>>> bibliografia
